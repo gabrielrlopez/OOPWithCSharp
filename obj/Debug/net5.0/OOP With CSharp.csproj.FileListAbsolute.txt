@@ -1,0 +1,16 @@
+C:\Users\dARCHANGELDESIGN\Documents\Programming\OOP With CSharp\bin\Debug\net5.0\OOP With CSharp.deps.json
+C:\Users\dARCHANGELDESIGN\Documents\Programming\OOP With CSharp\bin\Debug\net5.0\OOP With CSharp.dll
+C:\Users\dARCHANGELDESIGN\Documents\Programming\OOP With CSharp\bin\Debug\net5.0\ref\OOP With CSharp.dll
+C:\Users\dARCHANGELDESIGN\Documents\Programming\OOP With CSharp\bin\Debug\net5.0\OOP With CSharp.pdb
+C:\Users\dARCHANGELDESIGN\Documents\Programming\OOP With CSharp\obj\Debug\net5.0\OOP With CSharp.csproj.AssemblyReference.cache
+C:\Users\dARCHANGELDESIGN\Documents\Programming\OOP With CSharp\obj\Debug\net5.0\OOP With CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dARCHANGELDESIGN\Documents\Programming\OOP With CSharp\obj\Debug\net5.0\OOP With CSharp.AssemblyInfoInputs.cache
+C:\Users\dARCHANGELDESIGN\Documents\Programming\OOP With CSharp\obj\Debug\net5.0\OOP With CSharp.AssemblyInfo.cs
+C:\Users\dARCHANGELDESIGN\Documents\Programming\OOP With CSharp\obj\Debug\net5.0\OOP With CSharp.csproj.CoreCompileInputs.cache
+C:\Users\dARCHANGELDESIGN\Documents\Programming\OOP With CSharp\obj\Debug\net5.0\OOP With CSharp.dll
+C:\Users\dARCHANGELDESIGN\Documents\Programming\OOP With CSharp\obj\Debug\net5.0\ref\OOP With CSharp.dll
+C:\Users\dARCHANGELDESIGN\Documents\Programming\OOP With CSharp\obj\Debug\net5.0\OOP With CSharp.pdb
+C:\Users\dARCHANGELDESIGN\Documents\Programming\OOP With CSharp\bin\Debug\net5.0\OOP With CSharp.exe
+C:\Users\dARCHANGELDESIGN\Documents\Programming\OOP With CSharp\bin\Debug\net5.0\OOP With CSharp.runtimeconfig.json
+C:\Users\dARCHANGELDESIGN\Documents\Programming\OOP With CSharp\bin\Debug\net5.0\OOP With CSharp.runtimeconfig.dev.json
+C:\Users\dARCHANGELDESIGN\Documents\Programming\OOP With CSharp\obj\Debug\net5.0\OOP With CSharp.genruntimeconfig.cache
